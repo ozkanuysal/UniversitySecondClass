@@ -1,2 +1,2 @@
-# Un-vers-tySecondClass
+# Second Class
 data science
