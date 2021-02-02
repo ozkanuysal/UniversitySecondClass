@@ -1,0 +1,16 @@
+The best error message is the one that never shows up.
+Gates, currently a journalist in America, played with David Cotton in the final years of
+ies in Newcaste.
+
+Your Learn More From failure than from success.
+The purpose of software engineering is to control complexity, not to create it
+
+This is one of the most interesting programming books I have ever read, and it's so easy
+gth in and play with the NLTK. I have devoured this book.
+
+Although this text is available for free online through NLTK, it is an incredible resources
+ody trying to get started with NLP in Python. With only basic knowledge of Python and a 
+his book, I was able to write a work application to identfy key themes in survey data
+rt of speech tagging and a custom built Regex parser. I highly recommend this text.
+
+ 
